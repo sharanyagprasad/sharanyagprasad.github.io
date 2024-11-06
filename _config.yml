@@ -14,36 +14,35 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Supreeth Mysore Venkatesh # the main title
+title: Sharanya Ganesh Prasad # the main title
 
-tagline: My personal blog # it will display as the subtitle
+tagline: From Containers to Clusters # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Supreeth Mysore Venkatesh, Supreeth, Quantum Computing, Artificial Intelligence
+  Sharanya Ganesh Prasad, Cloud Architect, Solution Architect, DevOps, Full Stack, Software Development
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://supreethmv.github.io"
+url: "https://sharanyagprasad.github.io"
 
 github:
-  username: supreethmv # change to your GitHub username
+  username: sharanyagprasad # change to your GitHub username
 
 twitter:
-  username: supreeth_mv # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Supreeth Mysore Venkatesh
-  email: contact@supreethmv.com # change to your email address
+  name: Sharanya Ganesh Prasad
+  email: sharanyaganeshprasad@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.supreethmv.com # the copyright owner's link
-    - https://twitter.com/supreeth_mv # change to your Twitter homepage
-    - https://github.com/supreethmv # change to your GitHub homepage
+    - https://sharanyagprasad.github.io # the copyright owner's link
+    - # change to your Twitter homepage
+    - https://github.com/sharanyagprasad # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/supreethmv
 
 # Site Verification Settings
 webmaster_verifications:
@@ -60,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-QB2LEER17H # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -99,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1842522290006712320/wATjiraF_400x400.jpg
+avatar: /assets/img/SGP_photo.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -120,15 +119,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: supreethmv/blog
-    repo_id: 'R_kgDONHFuKQ'
-    category: 'General'
-    category_id: 'DIC_kwDONHFuKc4Cj8lo'
-    mapping: 'pathname'
-    strict: '0'
-    input_position: 'top' # optional, default to 'bottom'
-    lang: 'en' # optional, default to the value of `site.lang`
-    reactions_enabled: '1' # optional, default to the value of `1`
+    repo: 
+    repo_id: 
+    category: 
+    category_id: 
+    mapping: 
+    strict: 
+    input_position: 
+    lang: 
+    reactions_enabled: 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -151,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blog"
+baseurl:
 
 # ------------ The following options are not recommended to be modified ------------------
 
