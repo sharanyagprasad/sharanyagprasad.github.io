@@ -8,6 +8,7 @@ order: 4
 # About Me
 
 <h1 align="center">Hi 👋, I'm Sharanya Ganesh Prasad</h1>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working as **Cloud Engineer Educationer**
 
@@ -21,8 +22,7 @@ order: 4
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hashnode.com/@sharanyaganeshprasad" target="blank">
-<img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@sharanyaganeshprasad" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sharanyaganeshprasad" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@sharanyaganeshprasad" height="30" width="40" /></a>
 
 
 </p>
