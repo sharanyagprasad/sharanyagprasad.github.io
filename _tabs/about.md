@@ -7,38 +7,23 @@ order: 4
 
 # About Me
 
-👋 Hi! I'm Supreeth Mysore Venkatesh, a quantum AI researcher passionate about the potential of quantum computing to revolutionize data-heavy fields like earth observation, game theory, and finance.
+<h1 align="center">Hi 👋, I'm Sharanya Ganesh Prasad</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm currently pursuing my PhD in Computer Science at Technical University of Kaiserslautern, where I'm delving deep into developing and benchmarking quantum algorithms against classical state-of-the-art methods for solving computationally expensive problems. My Master's degree from Saarland University provided a solid foundation in mathematics and computer science. I've had the opportunity to work on various research projects and collaborate with prestigious institutions like the German Research Center for Artificial Intelligence (DFKI).
+- 🔭 I’m currently working as **Cloud Engineer teacher**
 
-### 🔬What I’m Passionate About
-I'm dedicated to developing systematic approaches for quantum software that can keep pace with the rapid evolution of quantum computing. My research focuses on creating innovative quantum algorithms and assessing the potential of current and near-future quantum computers to handle complex AI tasks.
+- 👨‍💻 All of my projects are available at [https://sharanyagprasad.github.io/](https://sharanyagprasad.github.io/)
 
-### 💡 Why This Blog?
-This blog serves as a bridge between my research and the broader community. Here, I dive into concepts like quantum neural networks and quantum algorithms for complex problems, breaking them down to make these complex ideas accessible and engaging for readers of all backgrounds.
+- 📝 I regularly write articles on [https://sharanyagprasad.github.io/](https://sharanyagprasad.github.io/)
 
-Feel free to reach out if our interests align or if you have a curiosity in the world of Quantum AI.
+- 💬 Ask me about **Django, Database, linux,**
 
-<!-- ## Reach Out -->
+- 📫 How to reach me **sharanyaganeshprasad@gmail.com**
 
-### 🌐 Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hashnode.com/@sharanyaganeshprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sharanyaganeshprasad" height="30" width="40" /></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://www.supreethmv.com)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:contact@supreethmv.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-profile-black?style=for-the-badge&logo=github)](https://github.com/supreethmv)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/supreethmv)
-
-[![Xing](https://img.shields.io/badge/Xing-connect-green?style=for-the-badge&logo=xing)](https://www.xing.com/profile/Supreeth_MysoreVenkatesh)
-
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-follow-blue?style=for-the-badge&logo=twitter)](https://x.com/supreeth_mv)
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-lightgrey?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=O9hC9noAAAAJ&hl=en)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-success?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Supreeth-Mysore-Venkatesh)
-
-[![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-Profile-yellow?style=for-the-badge)](https://www.semanticscholar.org/author/Supreeth-Mysore-Venkatesh/2163949389)
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9824--7399-brightgreen?style=for-the-badge)](https://orcid.org/0000-0002-9824-7399)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
