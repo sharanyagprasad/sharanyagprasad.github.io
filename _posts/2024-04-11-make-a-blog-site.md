@@ -1,6 +1,6 @@
 ---
 title: Make a Blog Site
-description: Use Jekyll to build a statis website and dephost it on GitHub for free.
+description: Use Jekyll to build a static website and host it on GitHub for free.
 author: sharanya
 date: 2024-11-04 17:45:00 +0800
 categories: [Getting Started, Blog]
