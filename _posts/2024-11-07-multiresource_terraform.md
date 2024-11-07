@@ -6,7 +6,7 @@ date: 2024-11-04 17:45:00 +0800
 categories: [Terraform]
 tags: [Terraform, AWS, IaC, multi-resource deployment]
 image:
-  path: C:\Users\dci-student\Documents\portfolio\repo\sharanyagprasad.github.io\assets\img\Terraform\Terraform.png
+  path: /assets/img/Terraform/Terraform.png
   alt: Terraform logo
 
 ---
