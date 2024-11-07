@@ -12,7 +12,7 @@ image:
 ---
 
 
-## Table of Contents
+<!-- ## Table of Contents
 1. [Understanding Locals in Terraform and Their Purpose](#understanding-locals-in-terraform-and-their-purpose)
 2. [Advantages and Limitations of Using Locals](#advantages-and-limitations-of-using-locals)
 3. [Key Differences Between Locals and Variables in Terraform](#key-differences-between-locals-and-variables-in-terraform)
@@ -22,8 +22,8 @@ image:
 5. [Practical Example of Locals in Terraform](#practical-example-of-locals-in-terraform)
 6. [Tools and Flags for Debugging Locals](#tools-and-flags-for-debugging-locals)
 7. [Conclusion on Using Locals to Simplify Terraform Code](#conclusion-on-using-locals-to-simplify-terraform-code)
+ -->
 
----
 ---
 
 ## 1. Understanding Locals in Terraform and Their Purpose
