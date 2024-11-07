@@ -4,7 +4,7 @@ description: To know how provider meta argument is used within the resources blo
 author: sharanya
 date: 2024-11-07 17:05:00 +0800
 categories: [Getting Started, Blog]
-tags: [blogging]
+tags: [terraform, IaC, AWS]
 # image:
 #   path: /assets/img/make_a_blog_site/kaitlyn-baker-unsplash.jpg
 #   alt: Photo by Kaitlyn Baker on Unsplash
