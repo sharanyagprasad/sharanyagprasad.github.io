@@ -3,7 +3,7 @@ title: Understanding Terraform Providers and the `providers` Meta-Argument
 description: To know how provider meta argument is used within the resources block 
 author: sharanya
 date: 2024-11-07 17:05:00 +0800
-categories: [Getting Started, Blog]
+categories: [Terraform]
 tags: [terraform, IaC, AWS]
 # image:
 #   path: /assets/img/make_a_blog_site/kaitlyn-baker-unsplash.jpg
