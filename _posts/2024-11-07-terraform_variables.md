@@ -6,7 +6,7 @@ date: 2024-11-07 22:17:00 +0800
 categories: [Terraform]
 tags: [terraform, IaC, AWS, variables, data types]
 image:
-  path: /assets/img/Terraform/Terraform.png
+  path: /assets/img/Terraform/variables.png
   alt: Terraform provider argument
 
 ---
