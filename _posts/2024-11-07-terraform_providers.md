@@ -6,7 +6,7 @@ date: 2024-11-07 17:05:00 +0800
 categories: [Terraform]
 tags: [terraform, IaC, AWS]
 image:
-  path: C:\Users\dci-student\Documents\portfolio\repo\sharanyagprasad.github.io\assets\img\Terraform\image.png
+  path: C:\Users\dci-student\Documents\portfolio\repo\sharanyagprasad.github.io\assets\img\Terraform\provider.png
   alt: Terraform provider argument
 
 ---
