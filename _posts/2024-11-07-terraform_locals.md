@@ -12,8 +12,10 @@ image:
 ---
 
 
+# Mastering Terraform Locals: Efficiently Manage Local Values for Streamlined Infrastructure
+
 ## Table of Contents
-1. [What are Locals in Terraform? A Deep Dive into Local Values](#what-are-locals-in-terraform-a-deep-dive-into-local-values)
+1. [What are Locals in Terraform?](#what-are-locals-in-terraform)
 2. [Why Use Locals? Advantages and Limitations](#why-use-locals-advantages-and-limitations)
 3. [Locals vs. Variables in Terraform: Key Differences and Use Cases](#locals-vs-variables-in-terraform-key-differences-and-use-cases)
    - [Why Locals Are Preferred for Certain Values](#why-locals-are-preferred-for-certain-values)
