@@ -5,9 +5,9 @@ author: sharanya
 date: 2024-11-07 17:05:00 +0800
 categories: [Terraform]
 tags: [terraform, IaC, AWS]
-# image:
-#   path: /assets/img/make_a_blog_site/kaitlyn-baker-unsplash.jpg
-#   alt: Photo by Kaitlyn Baker on Unsplash
+image:
+  path: C:\Users\dci-student\Documents\portfolio\repo\sharanyagprasad.github.io\assets\img\Terraform\image.png
+  alt: Terraform provider argument
 
 ---
 
