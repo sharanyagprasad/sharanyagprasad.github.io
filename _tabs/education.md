@@ -1,3 +1,9 @@
+---
+layout: education
+icon: fas fa-education
+order: 5
+---
+
 [Back to main page](./../README.md)
 
 <h1 align="center">Education</h1>

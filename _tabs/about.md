@@ -1,3 +1,9 @@
+---
+layout: about
+icon: fas fa-about
+order: 4
+---
+
 <h1 align="center">Sharanya Ganesh Prasad</h1>
 <table>
   <tbody>
