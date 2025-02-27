@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->
 
 <h1 align="center">Experience</h1>
 
@@ -51,7 +51,7 @@ order: 6
   </tr>
 </table>
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->
 
 
 

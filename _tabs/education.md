@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->
 
 <h1 align="center">Education</h1>
 <table>
@@ -45,4 +45,4 @@ order: 4
   
 </table>
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->

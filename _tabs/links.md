@@ -12,4 +12,4 @@ order: 8
 
 ---
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->

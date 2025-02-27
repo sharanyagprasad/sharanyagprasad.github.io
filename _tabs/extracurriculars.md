@@ -13,4 +13,4 @@ order: 7
 
 ---
 
-[Back to main page](./../README.md)
+<!-- [Back to main page](./../README.md) -->
