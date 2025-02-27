@@ -1,7 +1,7 @@
 ---
-layout: education
-icon: fas fa-education
-order: 5
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 [Back to main page](./../README.md)

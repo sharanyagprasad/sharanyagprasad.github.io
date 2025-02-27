@@ -1,8 +1,9 @@
----
-layout: about
-icon: fas fa-about
+<!-- ---
+# the default layout is 'page'
+icon: fas fa-info-circle
 order: 4
 ---
+
 
 <h1 align="center">Sharanya Ganesh Prasad</h1>
 <table>
@@ -177,12 +178,12 @@ order: 4
 ### Soft Skills
 - Communication, Collaboration, Adaptability, Problem-Solving, Critical Thinking
 
+--- -->
+
+
+
+
 ---
-
-
-
-
-<!-- ---
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
@@ -209,4 +210,4 @@ order: 4
 <a href="https://hashnode.com/@sharanyaganeshprasad" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="@sharanyaganeshprasad" height="30" width="40" /></a>
 
 
-</p> -->
+</p>

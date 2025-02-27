@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 6
+---
+
 [Back to main page](./../README.md)
 
 <h1 align="center">Experience</h1>

@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 9
+---
+
 [Back to main page](./../README.md)
 
 # Skills & Qualifications
