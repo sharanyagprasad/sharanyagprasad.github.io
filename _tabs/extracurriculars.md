@@ -3,16 +3,7 @@
 icon: fas fa-info-circle
 order: 7
 ---
-
-
-<!-- # Certifications
-
-* [AWS Solution Architect Associate](https://www.credly.com/badges/622a58e5-a73b-4afd-b4ed-88c56e6ed00a) - Feb 2025
-<td align="center"><img src="../assets/images/saa_badge.png" alt="DCI-Logo" width="200"></td>
-
- -->
-
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
