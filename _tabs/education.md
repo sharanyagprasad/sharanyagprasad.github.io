@@ -5,8 +5,6 @@ order: 4
 ---
 
 <!-- [Back to main page](./../README.md) -->
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">

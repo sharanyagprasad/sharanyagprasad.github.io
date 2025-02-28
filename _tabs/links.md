@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 8
 ---
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
